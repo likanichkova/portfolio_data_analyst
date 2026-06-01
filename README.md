@@ -24,10 +24,10 @@
 ## Стек инструментов:
 
 * Python (pandas, numpy, matplotlib, jupyter notebook) 
-* SQL (агрегирование, оконные функции, подзапросы, cte)
+* SQL (агрегация, оконные функции, подзапросы, cte)
 * Yandex DataLens
 * Power BI
-* 
+* Excel, Google Sheets
 ## Контакты
 
 * Telegram: nlikkka
