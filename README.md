@@ -23,8 +23,8 @@
 
 ## Стек инструментов:
 
-* Python (pandas, numpy, matplotlib, jupyter notebook) 
-* SQL (агрегация, оконные функции, подзапросы, cte)
+* Python: pandas, numpy, matplotlib, jupyter notebook 
+* SQL (PostgreSQL): агрегация, оконные функции, подзапросы, cte
 * Yandex DataLens
 * Power BI
 * Excel, Google Sheets
