@@ -28,6 +28,7 @@
 * Yandex DataLens
 * Power BI
 * Excel, Google Sheets
+* Описательная статистика
 ## Контакты
 
 * Telegram: nlikkka
